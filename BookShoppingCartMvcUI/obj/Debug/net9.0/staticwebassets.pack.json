@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BookShoppingCartMvcUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookShoppingCartMvcUI.ljzhhkmp38.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\Ender's Game.jpg",
+      "PackagePath": "staticwebassets\\Images\\Ender's Game.jpg"
+    },
+    {
+      "Id": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\Eragon.jpg",
+      "PackagePath": "staticwebassets\\Images\\Eragon.jpg"
+    },
+    {
+      "Id": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\Imagenotfound.png",
+      "PackagePath": "staticwebassets\\Images\\Imagenotfound.png"
+    },
+    {
+      "Id": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\Snow Crash.jpg",
+      "PackagePath": "staticwebassets\\Images\\Snow Crash.jpg"
+    },
+    {
+      "Id": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\The Dragon Reborn.jpg",
+      "PackagePath": "staticwebassets\\Images\\The Dragon Reborn.jpg"
+    },
+    {
+      "Id": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\The Last Wish.jpg",
+      "PackagePath": "staticwebassets\\Images\\The Last Wish.jpg"
+    },
+    {
+      "Id": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\The Name of the Wind.jpg",
+      "PackagePath": "staticwebassets\\Images\\The Name of the Wind.jpg"
+    },
+    {
+      "Id": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\The Way of Kings.jpg",
+      "PackagePath": "staticwebassets\\Images\\The Way of Kings.jpg"
+    },
+    {
+      "Id": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BookShoppingCartMvcUI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BookShoppingCartMvcUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.BookShoppingCartMvcUI.props",
+      "PackagePath": "build\\BookShoppingCartMvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.BookShoppingCartMvcUI.props",
+      "PackagePath": "buildMultiTargeting\\BookShoppingCartMvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.BookShoppingCartMvcUI.props",
+      "PackagePath": "buildTransitive\\BookShoppingCartMvcUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
