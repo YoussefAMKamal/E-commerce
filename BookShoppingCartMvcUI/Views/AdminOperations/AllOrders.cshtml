@@ -11,8 +11,8 @@
             <tr>
                 <th>OrderDate</th>
                 <th>Name</th>
+                <th>Mobile No</th>
                 <th>Email</th>
-                <th>MobileNo</th>
                 <th>Address</th>
                 <th>PaymentStatus</th>
                 <th>OrderStatus</th>
@@ -29,7 +29,7 @@
                     <td>@order.Address</td>
                     <td>@order.PaymentMethod | @(order.PaymentStatus)</td>
                     <td>@order.OrderStatus</td>
-                    <td>
+                    <td class="col-auto d-flex flex-column gap-2">
                         <button type="button" data-bs-toggle="modal" data-bs-target="#modal-@order.Id" class="btn btn-primary">
                             Order-Detail
                         </button>

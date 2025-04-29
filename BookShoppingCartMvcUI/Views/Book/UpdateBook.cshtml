@@ -39,9 +39,9 @@
             <label>Image</label>
             @if(!string.IsNullOrEmpty(Model.Image))
             {
-                <img src="/Images/@Model.Image" style="width:100px;height:80px"/>
+                <img src="/Images/@Model.Image" style="width:80px;height:100px;"/>
             }
-            <input type="file" class="form-control" asp-for="ImageFile" />
+            <input type="file" class="form-control my-2" asp-for="ImageFile" />
         </div>
 
         <div class="my-2">

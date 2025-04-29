@@ -359,5 +359,6 @@ D:\download\BookShoppingCart-Mvc-refactored-2025\BookShoppingCart-Mvc-refactored
 D:\download\BookShoppingCart-Mvc-refactored-2025\BookShoppingCart-Mvc-refactored-2025\BookShoppingCartMvcUI\obj\Debug\net9.0\BookShoppingCartMvcUI.pdb
 D:\download\BookShoppingCart-Mvc-refactored-2025\BookShoppingCart-Mvc-refactored-2025\BookShoppingCartMvcUI\obj\Debug\net9.0\BookShoppingCartMvcUI.genruntimeconfig.cache
 D:\download\BookShoppingCart-Mvc-refactored-2025\BookShoppingCart-Mvc-refactored-2025\BookShoppingCartMvcUI\obj\Debug\net9.0\ref\BookShoppingCartMvcUI.dll
-D:\download\BookShoppingCart-Mvc-refactored-2025\BookShoppingCart-Mvc-refactored-2025\BookShoppingCartMvcUI\obj\Debug\net9.0\compressed\d1lkdyyo4n-soyn6l9css.gz
 D:\download\BookShoppingCart-Mvc-refactored-2025\BookShoppingCart-Mvc-refactored-2025\BookShoppingCartMvcUI\obj\Debug\net9.0\compressed\xc3ml11pza-yomjr1634b.gz
+D:\download\BookShoppingCart-Mvc-refactored-2025\BookShoppingCart-Mvc-refactored-2025\BookShoppingCartMvcUI\obj\Debug\net9.0\BookShoppingCartMvcUI.sourcelink.json
+D:\download\BookShoppingCart-Mvc-refactored-2025\BookShoppingCart-Mvc-refactored-2025\BookShoppingCartMvcUI\obj\Debug\net9.0\compressed\d1lkdyyo4n-tdffrbqzzk.gz

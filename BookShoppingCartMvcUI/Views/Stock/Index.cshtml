@@ -10,18 +10,18 @@
     <a asp-action="Index" asp-controller="Stock" class="btn btn-primary">Clear</a>
 </form>
 
-<table class="table table-bordered">
-  <tr>
+<table class="table table-bordered table-striped my-2">
+  <tr class="text-center">
     <th>Book</th>
     <th>Stock</th>
     <th>Actions</th>
   </tr>
   @foreach(var item in Model)
   {
-    <tr>
+      <tr>
       <td>@item.BookName</td>
-      <td>@item.Quantity</td>
-      <td>
+      <td class="text-center">@item.Quantity</td>
+      <td class="text-center">
          <a asp-action="ManangeStock" asp-controller="Stock" asp-route-bookId="@item.BookId" class="btn btn-info"> Update Stock</a>
       </td>
     </tr>

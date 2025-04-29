@@ -6,6 +6,17 @@
     <UserSecretsId>aspnet-BookShoppingCartMvcUI-377ed640-8994-42b3-b92f-881b7a9d2db2</UserSecretsId>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Remove="Views\Reports\**" />
+    <Content Remove="Views\Reports\**" />
+    <EmbeddedResource Remove="Views\Reports\**" />
+    <None Remove="Views\Reports\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Controllers\ReportsController.cs" />
+    <Compile Remove="Models\DTOs\TopNSoldBookModels.cs" />
+    <Compile Remove="Repositories\ReportRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter" Version="9.0.1" />
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="9.0.1" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="9.0.1" />
