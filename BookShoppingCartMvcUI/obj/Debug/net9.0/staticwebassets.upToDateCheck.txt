@@ -2,11 +2,21 @@ D:\download\BookShoppingCart-Mvc-refactored-2025\BookShoppingCart-Mvc-refactored
 D:\download\BookShoppingCart-Mvc-refactored-2025\BookShoppingCart-Mvc-refactored-2025\BookShoppingCartMvcUI\wwwroot\favicon.ico
 wwwroot\css\bootstrap.css
 wwwroot\favicon.ico
-wwwroot\Images\Ender's Game.jpg
-wwwroot\Images\Eragon.jpg
-wwwroot\Images\Imagenotfound.png
-wwwroot\Images\Snow Crash.jpg
-wwwroot\Images\The Dragon Reborn.jpg
-wwwroot\Images\The Last Wish.jpg
-wwwroot\Images\The Name of the Wind.jpg
-wwwroot\Images\The Way of Kings.jpg
+wwwroot\Images\1.jpg
+wwwroot\Images\10.jpeg
+wwwroot\Images\11.jpg
+wwwroot\Images\12.jpeg
+wwwroot\Images\13.jpeg
+wwwroot\Images\14.jpeg
+wwwroot\Images\15.jpeg
+wwwroot\Images\16.jpeg
+wwwroot\Images\17.jpeg
+wwwroot\Images\18.jpeg
+wwwroot\Images\19.jpg
+wwwroot\Images\2.jpeg
+wwwroot\Images\20.jpeg
+wwwroot\Images\3.jpg
+wwwroot\Images\6.jpeg
+wwwroot\Images\7.jpeg
+wwwroot\Images\8.jpg
+wwwroot\Images\9.jpeg

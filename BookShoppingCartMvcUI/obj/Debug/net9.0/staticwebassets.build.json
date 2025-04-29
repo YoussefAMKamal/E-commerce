@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "y9RDZTYhAne86eNFELZVvdLFsTJVsJrMdSpBcqXUO28=",
+  "Hash": "tPXFa6plGiJ0ZBySGdVJoarl1DwhdTJLMC2PVR5EJh0=",
   "Source": "BookShoppingCartMvcUI",
   "BasePath": "_content/BookShoppingCartMvcUI",
   "Mode": "Default",
@@ -2894,12 +2894,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\Ender's Game.jpg",
+      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\1.jpg",
       "SourceId": "BookShoppingCartMvcUI",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
-      "RelativePath": "Images/Ender's Game#[.{fingerprint}]?.jpg",
+      "RelativePath": "Images/1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2908,19 +2908,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4gef7kzjug",
-      "Integrity": "HOKQ57fGV0DqxHwh+ybjV6QOQpfrKBAnTZpQFAz3iDY=",
+      "Fingerprint": "exg0ujbo4c",
+      "Integrity": "sg9rK4Wi8PYJjgT2fEdnQ53YoS+mKBYdm1RPrOHpqZk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Ender's Game.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\1.jpg"
     },
     {
-      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\Eragon.jpg",
+      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\10.jpeg",
       "SourceId": "BookShoppingCartMvcUI",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
-      "RelativePath": "Images/Eragon#[.{fingerprint}]?.jpg",
+      "RelativePath": "Images/10#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2929,19 +2929,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bn713dpp27",
-      "Integrity": "CRwdFpWtxRL9tQRcO1D/k8fJIY6qUY/MT5pftd4LZ9Y=",
+      "Fingerprint": "ds0fzwy8u0",
+      "Integrity": "vVQAdvGJGO5EKibwRCIA2vKn20cz74CWGFWDEBdL9YY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Eragon.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\10.jpeg"
     },
     {
-      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\Imagenotfound.png",
+      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\11.jpg",
       "SourceId": "BookShoppingCartMvcUI",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
-      "RelativePath": "Images/Imagenotfound#[.{fingerprint}]?.png",
+      "RelativePath": "Images/11#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2950,19 +2950,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mgqj3r6gjf",
-      "Integrity": "SmSIGbH3xP3fjCZLzmYBGleHKu2+diWbpU9mOyygky8=",
+      "Fingerprint": "7b6zkvojuy",
+      "Integrity": "TUW+2S12RXOfauPpdj47izBmg3NkSxWiyB/NCq7LVm8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Imagenotfound.png"
+      "OriginalItemSpec": "wwwroot\\Images\\11.jpg"
     },
     {
-      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\Snow Crash.jpg",
+      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\12.jpeg",
       "SourceId": "BookShoppingCartMvcUI",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
-      "RelativePath": "Images/Snow Crash#[.{fingerprint}]?.jpg",
+      "RelativePath": "Images/12#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2971,19 +2971,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jym99aqp53",
-      "Integrity": "hTLrY0xBFiHrQek+dwPmrEIUhBAoOgbl0nrCZ4e4Kg4=",
+      "Fingerprint": "34k9n21gpi",
+      "Integrity": "7WLCymZ4iRWKG8AS4yQYUgQzXYHOxKm4jFnu7pHYJsA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Snow Crash.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\12.jpeg"
     },
     {
-      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\The Dragon Reborn.jpg",
+      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\13.jpeg",
       "SourceId": "BookShoppingCartMvcUI",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
-      "RelativePath": "Images/The Dragon Reborn#[.{fingerprint}]?.jpg",
+      "RelativePath": "Images/13#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2992,19 +2992,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7uaece5q8p",
-      "Integrity": "oX2jTGkPy5iP67I2thp+eAxkzWG+frTE95WyHmO2VwI=",
+      "Fingerprint": "0lk0xcq5sf",
+      "Integrity": "NLn0xG9AnlhX19RDbCRgKMcYi1oatTGvTVUieEbPZdU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\The Dragon Reborn.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\13.jpeg"
     },
     {
-      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\The Last Wish.jpg",
+      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\14.jpeg",
       "SourceId": "BookShoppingCartMvcUI",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
-      "RelativePath": "Images/The Last Wish#[.{fingerprint}]?.jpg",
+      "RelativePath": "Images/14#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3013,19 +3013,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6qg7fm4p09",
-      "Integrity": "kqj7MA9lMXWuqBNNu3zncS2hO7QxAGLwBw99q0cGxDk=",
+      "Fingerprint": "4sdye94g99",
+      "Integrity": "REzczuA6SU4YgZ9trtjAW1i4UCo9BoJgTpU1ZPXqr8Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\The Last Wish.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\14.jpeg"
     },
     {
-      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\The Name of the Wind.jpg",
+      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\15.jpeg",
       "SourceId": "BookShoppingCartMvcUI",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
-      "RelativePath": "Images/The Name of the Wind#[.{fingerprint}]?.jpg",
+      "RelativePath": "Images/15#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3034,19 +3034,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1q4p874qlg",
-      "Integrity": "KSjdpCNyyn1q6LSOZ3bHH8u2whPbUNZ6XFbJbthBUdM=",
+      "Fingerprint": "rye85n9w15",
+      "Integrity": "w27PimtnDNU0OxUjJtnbL1NV43Wb3zIqP0g3vQbv2AI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\The Name of the Wind.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\15.jpeg"
     },
     {
-      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\The Way of Kings.jpg",
+      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\16.jpeg",
       "SourceId": "BookShoppingCartMvcUI",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\",
       "BasePath": "_content/BookShoppingCartMvcUI",
-      "RelativePath": "Images/The Way of Kings#[.{fingerprint}]?.jpg",
+      "RelativePath": "Images/16#[.{fingerprint}]?.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3055,11 +3055,221 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "idtcqmmtbw",
-      "Integrity": "Ss7e+AxgguapAjhoAON8kmHq7dwNQ5JaYTD/lBx96kU=",
+      "Fingerprint": "cuwjazbwcv",
+      "Integrity": "/GxHFAG9cOe1J+ASa7p+sGwBRL4QeENzAEJ2oKAmDi0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\The Way of Kings.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\16.jpeg"
+    },
+    {
+      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\17.jpeg",
+      "SourceId": "BookShoppingCartMvcUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\",
+      "BasePath": "_content/BookShoppingCartMvcUI",
+      "RelativePath": "Images/17#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3r4tid731p",
+      "Integrity": "sWzKFFnAGOXfDY0/WBBTZ26f/RozYTNtEKFeVIlXniQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\17.jpeg"
+    },
+    {
+      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\18.jpeg",
+      "SourceId": "BookShoppingCartMvcUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\",
+      "BasePath": "_content/BookShoppingCartMvcUI",
+      "RelativePath": "Images/18#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jx77y6cllr",
+      "Integrity": "GaIiR0ZxDEPZd7trdANh6CKyCkR//uMPQSRX/6JCavo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\18.jpeg"
+    },
+    {
+      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\19.jpg",
+      "SourceId": "BookShoppingCartMvcUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\",
+      "BasePath": "_content/BookShoppingCartMvcUI",
+      "RelativePath": "Images/19#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0wc688gr33",
+      "Integrity": "wG53sbXfbchpTqlz0yJezWt4fSi61E3l9JlptzyT0B0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\19.jpg"
+    },
+    {
+      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\2.jpeg",
+      "SourceId": "BookShoppingCartMvcUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\",
+      "BasePath": "_content/BookShoppingCartMvcUI",
+      "RelativePath": "Images/2#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sa24pt9q2n",
+      "Integrity": "XL5PTRTE9YWfK/Yn0+P85DY+EJ4TXC0wPPtCw362rmg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\2.jpeg"
+    },
+    {
+      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\20.jpeg",
+      "SourceId": "BookShoppingCartMvcUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\",
+      "BasePath": "_content/BookShoppingCartMvcUI",
+      "RelativePath": "Images/20#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lrl4a5jyqp",
+      "Integrity": "z4q2NNbubEj4aTlF7Uc4nFFfj0vYNQ2m+huZbogbQfE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\20.jpeg"
+    },
+    {
+      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\3.jpg",
+      "SourceId": "BookShoppingCartMvcUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\",
+      "BasePath": "_content/BookShoppingCartMvcUI",
+      "RelativePath": "Images/3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pdvk88kdhu",
+      "Integrity": "I3w/7AfisH7ncUWbAEVeeJ18TCbJn95LmX2l7++jS6M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\3.jpg"
+    },
+    {
+      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\6.jpeg",
+      "SourceId": "BookShoppingCartMvcUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\",
+      "BasePath": "_content/BookShoppingCartMvcUI",
+      "RelativePath": "Images/6#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0rjubut7v7",
+      "Integrity": "hI2d3sVcV9v4Z7kmxOhtVOpFhQoklb0iWy5ZJbPVrSc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\6.jpeg"
+    },
+    {
+      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\7.jpeg",
+      "SourceId": "BookShoppingCartMvcUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\",
+      "BasePath": "_content/BookShoppingCartMvcUI",
+      "RelativePath": "Images/7#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "77t1isegec",
+      "Integrity": "7ZOCU96F0tCF+TwDlmsQtRqpY4PlxPgHNCIbUc/9XlI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\7.jpeg"
+    },
+    {
+      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\8.jpg",
+      "SourceId": "BookShoppingCartMvcUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\",
+      "BasePath": "_content/BookShoppingCartMvcUI",
+      "RelativePath": "Images/8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "93gh1fs3n1",
+      "Integrity": "tSjB6HJ0Hj498tVgaXTgbfHUPOyy71gqnTcAEXSfhmE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\8.jpg"
+    },
+    {
+      "Identity": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\9.jpeg",
+      "SourceId": "BookShoppingCartMvcUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\",
+      "BasePath": "_content/BookShoppingCartMvcUI",
+      "RelativePath": "Images/9#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f622emrqbg",
+      "Integrity": "eXIZeaRceI/Kk7uNOaqDF83EVUeT72u9pO8BidpxCVg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\9.jpeg"
     }
   ],
   "Endpoints": [
@@ -13204,8 +13414,254 @@
       ]
     },
     {
-      "Route": "Images/Ender's Game.4gef7kzjug.jpg",
-      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\Ender's Game.jpg",
+      "Route": "Images/1.exg0ujbo4c.jpg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sg9rK4Wi8PYJjgT2fEdnQ53YoS+mKBYdm1RPrOHpqZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 22:47:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "exg0ujbo4c"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sg9rK4Wi8PYJjgT2fEdnQ53YoS+mKBYdm1RPrOHpqZk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/1.jpg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sg9rK4Wi8PYJjgT2fEdnQ53YoS+mKBYdm1RPrOHpqZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 22:47:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sg9rK4Wi8PYJjgT2fEdnQ53YoS+mKBYdm1RPrOHpqZk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/10.ds0fzwy8u0.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\10.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vVQAdvGJGO5EKibwRCIA2vKn20cz74CWGFWDEBdL9YY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 22:56:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ds0fzwy8u0"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/10.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vVQAdvGJGO5EKibwRCIA2vKn20cz74CWGFWDEBdL9YY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/10.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\10.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vVQAdvGJGO5EKibwRCIA2vKn20cz74CWGFWDEBdL9YY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 22:56:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vVQAdvGJGO5EKibwRCIA2vKn20cz74CWGFWDEBdL9YY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/11.7b6zkvojuy.jpg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TUW+2S12RXOfauPpdj47izBmg3NkSxWiyB/NCq7LVm8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 22:56:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7b6zkvojuy"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/11.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TUW+2S12RXOfauPpdj47izBmg3NkSxWiyB/NCq7LVm8="
+        }
+      ]
+    },
+    {
+      "Route": "Images/11.jpg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TUW+2S12RXOfauPpdj47izBmg3NkSxWiyB/NCq7LVm8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 22:56:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TUW+2S12RXOfauPpdj47izBmg3NkSxWiyB/NCq7LVm8="
+        }
+      ]
+    },
+    {
+      "Route": "Images/12.34k9n21gpi.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\12.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13222,11 +13678,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HOKQ57fGV0DqxHwh+ybjV6QOQpfrKBAnTZpQFAz3iDY=\""
+          "Value": "\"7WLCymZ4iRWKG8AS4yQYUgQzXYHOxKm4jFnu7pHYJsA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 14:18:32 GMT"
+          "Value": "Sun, 27 Apr 2025 23:01:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13236,21 +13692,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4gef7kzjug"
+          "Value": "34k9n21gpi"
         },
         {
           "Name": "label",
-          "Value": "Images/Ender's Game.jpg"
+          "Value": "Images/12.jpeg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HOKQ57fGV0DqxHwh+ybjV6QOQpfrKBAnTZpQFAz3iDY="
+          "Value": "sha256-7WLCymZ4iRWKG8AS4yQYUgQzXYHOxKm4jFnu7pHYJsA="
         }
       ]
     },
     {
-      "Route": "Images/Ender's Game.jpg",
-      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\Ender's Game.jpg",
+      "Route": "Images/12.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\12.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13267,11 +13723,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HOKQ57fGV0DqxHwh+ybjV6QOQpfrKBAnTZpQFAz3iDY=\""
+          "Value": "\"7WLCymZ4iRWKG8AS4yQYUgQzXYHOxKm4jFnu7pHYJsA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 14:18:32 GMT"
+          "Value": "Sun, 27 Apr 2025 23:01:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13281,13 +13737,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HOKQ57fGV0DqxHwh+ybjV6QOQpfrKBAnTZpQFAz3iDY="
+          "Value": "sha256-7WLCymZ4iRWKG8AS4yQYUgQzXYHOxKm4jFnu7pHYJsA="
         }
       ]
     },
     {
-      "Route": "Images/Eragon.bn713dpp27.jpg",
-      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\Eragon.jpg",
+      "Route": "Images/13.0lk0xcq5sf.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\13.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13296,7 +13752,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13817"
+          "Value": "39500"
         },
         {
           "Name": "Content-Type",
@@ -13304,11 +13760,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CRwdFpWtxRL9tQRcO1D/k8fJIY6qUY/MT5pftd4LZ9Y=\""
+          "Value": "\"NLn0xG9AnlhX19RDbCRgKMcYi1oatTGvTVUieEbPZdU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 14:18:32 GMT"
+          "Value": "Sun, 27 Apr 2025 23:01:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13318,21 +13774,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bn713dpp27"
+          "Value": "0lk0xcq5sf"
         },
         {
           "Name": "label",
-          "Value": "Images/Eragon.jpg"
+          "Value": "Images/13.jpeg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CRwdFpWtxRL9tQRcO1D/k8fJIY6qUY/MT5pftd4LZ9Y="
+          "Value": "sha256-NLn0xG9AnlhX19RDbCRgKMcYi1oatTGvTVUieEbPZdU="
         }
       ]
     },
     {
-      "Route": "Images/Eragon.jpg",
-      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\Eragon.jpg",
+      "Route": "Images/13.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\13.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13341,7 +13797,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13817"
+          "Value": "39500"
         },
         {
           "Name": "Content-Type",
@@ -13349,11 +13805,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CRwdFpWtxRL9tQRcO1D/k8fJIY6qUY/MT5pftd4LZ9Y=\""
+          "Value": "\"NLn0xG9AnlhX19RDbCRgKMcYi1oatTGvTVUieEbPZdU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 14:18:32 GMT"
+          "Value": "Sun, 27 Apr 2025 23:01:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13363,13 +13819,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CRwdFpWtxRL9tQRcO1D/k8fJIY6qUY/MT5pftd4LZ9Y="
+          "Value": "sha256-NLn0xG9AnlhX19RDbCRgKMcYi1oatTGvTVUieEbPZdU="
         }
       ]
     },
     {
-      "Route": "Images/Imagenotfound.mgqj3r6gjf.png",
-      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\Imagenotfound.png",
+      "Route": "Images/14.4sdye94g99.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\14.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13378,19 +13834,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10414"
+          "Value": "45777"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"SmSIGbH3xP3fjCZLzmYBGleHKu2+diWbpU9mOyygky8=\""
+          "Value": "\"REzczuA6SU4YgZ9trtjAW1i4UCo9BoJgTpU1ZPXqr8Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 14:18:32 GMT"
+          "Value": "Sun, 27 Apr 2025 23:02:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13400,21 +13856,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mgqj3r6gjf"
+          "Value": "4sdye94g99"
         },
         {
           "Name": "label",
-          "Value": "Images/Imagenotfound.png"
+          "Value": "Images/14.jpeg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SmSIGbH3xP3fjCZLzmYBGleHKu2+diWbpU9mOyygky8="
+          "Value": "sha256-REzczuA6SU4YgZ9trtjAW1i4UCo9BoJgTpU1ZPXqr8Y="
         }
       ]
     },
     {
-      "Route": "Images/Imagenotfound.png",
-      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\Imagenotfound.png",
+      "Route": "Images/14.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\14.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13423,19 +13879,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10414"
+          "Value": "45777"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"SmSIGbH3xP3fjCZLzmYBGleHKu2+diWbpU9mOyygky8=\""
+          "Value": "\"REzczuA6SU4YgZ9trtjAW1i4UCo9BoJgTpU1ZPXqr8Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 14:18:32 GMT"
+          "Value": "Sun, 27 Apr 2025 23:02:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13445,13 +13901,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SmSIGbH3xP3fjCZLzmYBGleHKu2+diWbpU9mOyygky8="
+          "Value": "sha256-REzczuA6SU4YgZ9trtjAW1i4UCo9BoJgTpU1ZPXqr8Y="
         }
       ]
     },
     {
-      "Route": "Images/Snow Crash.jpg",
-      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\Snow Crash.jpg",
+      "Route": "Images/15.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\15.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13460,7 +13916,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13363"
+          "Value": "185492"
         },
         {
           "Name": "Content-Type",
@@ -13468,11 +13924,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hTLrY0xBFiHrQek+dwPmrEIUhBAoOgbl0nrCZ4e4Kg4=\""
+          "Value": "\"w27PimtnDNU0OxUjJtnbL1NV43Wb3zIqP0g3vQbv2AI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 14:18:32 GMT"
+          "Value": "Sun, 27 Apr 2025 23:04:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13482,13 +13938,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hTLrY0xBFiHrQek+dwPmrEIUhBAoOgbl0nrCZ4e4Kg4="
+          "Value": "sha256-w27PimtnDNU0OxUjJtnbL1NV43Wb3zIqP0g3vQbv2AI="
         }
       ]
     },
     {
-      "Route": "Images/Snow Crash.jym99aqp53.jpg",
-      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\Snow Crash.jpg",
+      "Route": "Images/15.rye85n9w15.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\15.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13497,7 +13953,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13363"
+          "Value": "185492"
         },
         {
           "Name": "Content-Type",
@@ -13505,11 +13961,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hTLrY0xBFiHrQek+dwPmrEIUhBAoOgbl0nrCZ4e4Kg4=\""
+          "Value": "\"w27PimtnDNU0OxUjJtnbL1NV43Wb3zIqP0g3vQbv2AI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 14:18:32 GMT"
+          "Value": "Sun, 27 Apr 2025 23:04:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13519,21 +13975,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jym99aqp53"
+          "Value": "rye85n9w15"
         },
         {
           "Name": "label",
-          "Value": "Images/Snow Crash.jpg"
+          "Value": "Images/15.jpeg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hTLrY0xBFiHrQek+dwPmrEIUhBAoOgbl0nrCZ4e4Kg4="
+          "Value": "sha256-w27PimtnDNU0OxUjJtnbL1NV43Wb3zIqP0g3vQbv2AI="
         }
       ]
     },
     {
-      "Route": "Images/The Dragon Reborn.7uaece5q8p.jpg",
-      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\The Dragon Reborn.jpg",
+      "Route": "Images/16.cuwjazbwcv.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\16.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13542,7 +13998,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18563"
+          "Value": "182389"
         },
         {
           "Name": "Content-Type",
@@ -13550,11 +14006,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"oX2jTGkPy5iP67I2thp+eAxkzWG+frTE95WyHmO2VwI=\""
+          "Value": "\"/GxHFAG9cOe1J+ASa7p+sGwBRL4QeENzAEJ2oKAmDi0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 14:18:32 GMT"
+          "Value": "Sun, 27 Apr 2025 23:04:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13564,21 +14020,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7uaece5q8p"
+          "Value": "cuwjazbwcv"
         },
         {
           "Name": "label",
-          "Value": "Images/The Dragon Reborn.jpg"
+          "Value": "Images/16.jpeg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-oX2jTGkPy5iP67I2thp+eAxkzWG+frTE95WyHmO2VwI="
+          "Value": "sha256-/GxHFAG9cOe1J+ASa7p+sGwBRL4QeENzAEJ2oKAmDi0="
         }
       ]
     },
     {
-      "Route": "Images/The Dragon Reborn.jpg",
-      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\The Dragon Reborn.jpg",
+      "Route": "Images/16.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\16.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13587,7 +14043,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18563"
+          "Value": "182389"
         },
         {
           "Name": "Content-Type",
@@ -13595,11 +14051,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"oX2jTGkPy5iP67I2thp+eAxkzWG+frTE95WyHmO2VwI=\""
+          "Value": "\"/GxHFAG9cOe1J+ASa7p+sGwBRL4QeENzAEJ2oKAmDi0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 14:18:32 GMT"
+          "Value": "Sun, 27 Apr 2025 23:04:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13609,13 +14065,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-oX2jTGkPy5iP67I2thp+eAxkzWG+frTE95WyHmO2VwI="
+          "Value": "sha256-/GxHFAG9cOe1J+ASa7p+sGwBRL4QeENzAEJ2oKAmDi0="
         }
       ]
     },
     {
-      "Route": "Images/The Last Wish.6qg7fm4p09.jpg",
-      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\The Last Wish.jpg",
+      "Route": "Images/17.3r4tid731p.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\17.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13624,7 +14080,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16850"
+          "Value": "214639"
         },
         {
           "Name": "Content-Type",
@@ -13632,11 +14088,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kqj7MA9lMXWuqBNNu3zncS2hO7QxAGLwBw99q0cGxDk=\""
+          "Value": "\"sWzKFFnAGOXfDY0/WBBTZ26f/RozYTNtEKFeVIlXniQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 14:18:32 GMT"
+          "Value": "Sun, 27 Apr 2025 23:04:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13646,21 +14102,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6qg7fm4p09"
+          "Value": "3r4tid731p"
         },
         {
           "Name": "label",
-          "Value": "Images/The Last Wish.jpg"
+          "Value": "Images/17.jpeg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kqj7MA9lMXWuqBNNu3zncS2hO7QxAGLwBw99q0cGxDk="
+          "Value": "sha256-sWzKFFnAGOXfDY0/WBBTZ26f/RozYTNtEKFeVIlXniQ="
         }
       ]
     },
     {
-      "Route": "Images/The Last Wish.jpg",
-      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\The Last Wish.jpg",
+      "Route": "Images/17.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\17.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13669,7 +14125,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16850"
+          "Value": "214639"
         },
         {
           "Name": "Content-Type",
@@ -13677,11 +14133,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kqj7MA9lMXWuqBNNu3zncS2hO7QxAGLwBw99q0cGxDk=\""
+          "Value": "\"sWzKFFnAGOXfDY0/WBBTZ26f/RozYTNtEKFeVIlXniQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 14:18:32 GMT"
+          "Value": "Sun, 27 Apr 2025 23:04:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13691,13 +14147,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kqj7MA9lMXWuqBNNu3zncS2hO7QxAGLwBw99q0cGxDk="
+          "Value": "sha256-sWzKFFnAGOXfDY0/WBBTZ26f/RozYTNtEKFeVIlXniQ="
         }
       ]
     },
     {
-      "Route": "Images/The Name of the Wind.1q4p874qlg.jpg",
-      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\The Name of the Wind.jpg",
+      "Route": "Images/18.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\18.jpeg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13706,7 +14162,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16332"
+          "Value": "50599"
         },
         {
           "Name": "Content-Type",
@@ -13714,11 +14170,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KSjdpCNyyn1q6LSOZ3bHH8u2whPbUNZ6XFbJbthBUdM=\""
+          "Value": "\"GaIiR0ZxDEPZd7trdANh6CKyCkR//uMPQSRX/6JCavo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 14:18:32 GMT"
+          "Value": "Sun, 27 Apr 2025 23:06:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GaIiR0ZxDEPZd7trdANh6CKyCkR//uMPQSRX/6JCavo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/18.jx77y6cllr.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\18.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50599"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GaIiR0ZxDEPZd7trdANh6CKyCkR//uMPQSRX/6JCavo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 23:06:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13728,21 +14221,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1q4p874qlg"
+          "Value": "jx77y6cllr"
         },
         {
           "Name": "label",
-          "Value": "Images/The Name of the Wind.jpg"
+          "Value": "Images/18.jpeg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KSjdpCNyyn1q6LSOZ3bHH8u2whPbUNZ6XFbJbthBUdM="
+          "Value": "sha256-GaIiR0ZxDEPZd7trdANh6CKyCkR//uMPQSRX/6JCavo="
         }
       ]
     },
     {
-      "Route": "Images/The Name of the Wind.jpg",
-      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\The Name of the Wind.jpg",
+      "Route": "Images/19.0wc688gr33.jpg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\19.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13751,7 +14244,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16332"
+          "Value": "17165"
         },
         {
           "Name": "Content-Type",
@@ -13759,48 +14252,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KSjdpCNyyn1q6LSOZ3bHH8u2whPbUNZ6XFbJbthBUdM=\""
+          "Value": "\"wG53sbXfbchpTqlz0yJezWt4fSi61E3l9JlptzyT0B0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 14:18:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KSjdpCNyyn1q6LSOZ3bHH8u2whPbUNZ6XFbJbthBUdM="
-        }
-      ]
-    },
-    {
-      "Route": "Images/The Way of Kings.idtcqmmtbw.jpg",
-      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\The Way of Kings.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15335"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ss7e+AxgguapAjhoAON8kmHq7dwNQ5JaYTD/lBx96kU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 14:18:32 GMT"
+          "Value": "Sun, 27 Apr 2025 23:06:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13810,21 +14266,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "idtcqmmtbw"
+          "Value": "0wc688gr33"
         },
         {
           "Name": "label",
-          "Value": "Images/The Way of Kings.jpg"
+          "Value": "Images/19.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Ss7e+AxgguapAjhoAON8kmHq7dwNQ5JaYTD/lBx96kU="
+          "Value": "sha256-wG53sbXfbchpTqlz0yJezWt4fSi61E3l9JlptzyT0B0="
         }
       ]
     },
     {
-      "Route": "Images/The Way of Kings.jpg",
-      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\The Way of Kings.jpg",
+      "Route": "Images/19.jpg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\19.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13833,7 +14289,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15335"
+          "Value": "17165"
         },
         {
           "Name": "Content-Type",
@@ -13841,11 +14297,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ss7e+AxgguapAjhoAON8kmHq7dwNQ5JaYTD/lBx96kU=\""
+          "Value": "\"wG53sbXfbchpTqlz0yJezWt4fSi61E3l9JlptzyT0B0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 14:18:32 GMT"
+          "Value": "Sun, 27 Apr 2025 23:06:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13855,7 +14311,581 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ss7e+AxgguapAjhoAON8kmHq7dwNQ5JaYTD/lBx96kU="
+          "Value": "sha256-wG53sbXfbchpTqlz0yJezWt4fSi61E3l9JlptzyT0B0="
+        }
+      ]
+    },
+    {
+      "Route": "Images/2.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XL5PTRTE9YWfK/Yn0+P85DY+EJ4TXC0wPPtCw362rmg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 22:47:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XL5PTRTE9YWfK/Yn0+P85DY+EJ4TXC0wPPtCw362rmg="
+        }
+      ]
+    },
+    {
+      "Route": "Images/2.sa24pt9q2n.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XL5PTRTE9YWfK/Yn0+P85DY+EJ4TXC0wPPtCw362rmg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 22:47:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sa24pt9q2n"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/2.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XL5PTRTE9YWfK/Yn0+P85DY+EJ4TXC0wPPtCw362rmg="
+        }
+      ]
+    },
+    {
+      "Route": "Images/20.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\20.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z4q2NNbubEj4aTlF7Uc4nFFfj0vYNQ2m+huZbogbQfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 23:06:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z4q2NNbubEj4aTlF7Uc4nFFfj0vYNQ2m+huZbogbQfE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/20.lrl4a5jyqp.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\20.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z4q2NNbubEj4aTlF7Uc4nFFfj0vYNQ2m+huZbogbQfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 23:06:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lrl4a5jyqp"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/20.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z4q2NNbubEj4aTlF7Uc4nFFfj0vYNQ2m+huZbogbQfE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/3.jpg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I3w/7AfisH7ncUWbAEVeeJ18TCbJn95LmX2l7++jS6M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 22:48:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I3w/7AfisH7ncUWbAEVeeJ18TCbJn95LmX2l7++jS6M="
+        }
+      ]
+    },
+    {
+      "Route": "Images/3.pdvk88kdhu.jpg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I3w/7AfisH7ncUWbAEVeeJ18TCbJn95LmX2l7++jS6M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 22:48:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pdvk88kdhu"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I3w/7AfisH7ncUWbAEVeeJ18TCbJn95LmX2l7++jS6M="
+        }
+      ]
+    },
+    {
+      "Route": "Images/6.0rjubut7v7.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\6.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hI2d3sVcV9v4Z7kmxOhtVOpFhQoklb0iWy5ZJbPVrSc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 22:52:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0rjubut7v7"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/6.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hI2d3sVcV9v4Z7kmxOhtVOpFhQoklb0iWy5ZJbPVrSc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/6.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\6.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hI2d3sVcV9v4Z7kmxOhtVOpFhQoklb0iWy5ZJbPVrSc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 22:52:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hI2d3sVcV9v4Z7kmxOhtVOpFhQoklb0iWy5ZJbPVrSc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/7.77t1isegec.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\7.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82336"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7ZOCU96F0tCF+TwDlmsQtRqpY4PlxPgHNCIbUc/9XlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 22:52:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "77t1isegec"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/7.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7ZOCU96F0tCF+TwDlmsQtRqpY4PlxPgHNCIbUc/9XlI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/7.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\7.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82336"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7ZOCU96F0tCF+TwDlmsQtRqpY4PlxPgHNCIbUc/9XlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 22:52:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7ZOCU96F0tCF+TwDlmsQtRqpY4PlxPgHNCIbUc/9XlI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/8.93gh1fs3n1.jpg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tSjB6HJ0Hj498tVgaXTgbfHUPOyy71gqnTcAEXSfhmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 22:53:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "93gh1fs3n1"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tSjB6HJ0Hj498tVgaXTgbfHUPOyy71gqnTcAEXSfhmE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/8.jpg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tSjB6HJ0Hj498tVgaXTgbfHUPOyy71gqnTcAEXSfhmE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 22:53:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tSjB6HJ0Hj498tVgaXTgbfHUPOyy71gqnTcAEXSfhmE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/9.f622emrqbg.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\9.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94088"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eXIZeaRceI/Kk7uNOaqDF83EVUeT72u9pO8BidpxCVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 22:56:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f622emrqbg"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/9.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eXIZeaRceI/Kk7uNOaqDF83EVUeT72u9pO8BidpxCVg="
+        }
+      ]
+    },
+    {
+      "Route": "Images/9.jpeg",
+      "AssetFile": "D:\\download\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCart-Mvc-refactored-2025\\BookShoppingCartMvcUI\\wwwroot\\Images\\9.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94088"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eXIZeaRceI/Kk7uNOaqDF83EVUeT72u9pO8BidpxCVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 22:56:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eXIZeaRceI/Kk7uNOaqDF83EVUeT72u9pO8BidpxCVg="
         }
       ]
     },

@@ -35,7 +35,7 @@
                 <td>@book.BookName</td>
                 <td>@book.AuthorName</td>
                 <td>@book.Genre.GenreName</td>
-                <td>@book.Price</td>
+                <td>$@book.Price</td>
                 <td>
                     <a asp-action="UpdateBook" asp-controller="Book" asp-route-id="@book.Id" class="btn btn-success">Edit</a>
                     <a asp-action="DeleteBook" asp-controller="Book" asp-route-id="@book.Id" class="btn btn-danger" onclick="return window.confirm('Are you sure?')">Delete</a>
