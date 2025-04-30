@@ -1,8 +1,0 @@
-D:\download\BookShoppingCart-Mvc-refactored-2025\BookShoppingCart-Mvc-refactored-2025\BookShoppingCartMvcUI\wwwroot\Images\Ender's Game.jpg
-D:\download\BookShoppingCart-Mvc-refactored-2025\BookShoppingCart-Mvc-refactored-2025\BookShoppingCartMvcUI\wwwroot\Images\Eragon.jpg
-D:\download\BookShoppingCart-Mvc-refactored-2025\BookShoppingCart-Mvc-refactored-2025\BookShoppingCartMvcUI\wwwroot\Images\Imagenotfound.png
-D:\download\BookShoppingCart-Mvc-refactored-2025\BookShoppingCart-Mvc-refactored-2025\BookShoppingCartMvcUI\wwwroot\Images\Snow Crash.jpg
-D:\download\BookShoppingCart-Mvc-refactored-2025\BookShoppingCart-Mvc-refactored-2025\BookShoppingCartMvcUI\wwwroot\Images\The Dragon Reborn.jpg
-D:\download\BookShoppingCart-Mvc-refactored-2025\BookShoppingCart-Mvc-refactored-2025\BookShoppingCartMvcUI\wwwroot\Images\The Last Wish.jpg
-D:\download\BookShoppingCart-Mvc-refactored-2025\BookShoppingCart-Mvc-refactored-2025\BookShoppingCartMvcUI\wwwroot\Images\The Name of the Wind.jpg
-D:\download\BookShoppingCart-Mvc-refactored-2025\BookShoppingCart-Mvc-refactored-2025\BookShoppingCartMvcUI\wwwroot\Images\The Way of Kings.jpg
